@@ -75,6 +75,7 @@ For React Native CLI projects:
 npx react-native run-android
 ```
 
+Make sure an Android emulator is running or a physical Android device is connected with USB debugging enabled.
 ## 🎯 Purpose
 
 This repository documents my React Native learning journey through hands-on projects covering UI development, navigation, state management, and mobile application features.
